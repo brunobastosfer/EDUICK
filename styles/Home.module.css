@@ -1,0 +1,41 @@
+.header {
+  margin-left: 150px;
+  margin-top: 28px;
+}
+
+.logo {
+  width: 140px;
+  height: 23px;
+  top: 39px;
+  margin-right: 80px;
+}
+
+.works {
+  width: 82px;
+  height: 19px;
+  top: 41px;
+  left: 745px;
+  font-family: 'Open Sans';
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 19px;
+  margin-right: 47px;
+  color: rgba(255, 255, 255, 1)
+}
+
+.about {
+  width: 59px;
+  height: 19px;
+  top: 41px;
+  left: 874px;
+  width: 82px;
+  height: 19px;
+  top: 41px;
+  font-family: 'Open Sans';
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 19px;
+  margin-right: 47px;
+  margin-right: 595px;
+  color: rgba(255, 255, 255, 1)
+}
